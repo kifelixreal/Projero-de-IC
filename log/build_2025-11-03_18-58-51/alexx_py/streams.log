@@ -1,0 +1,31 @@
+[0.325s] Invoking command in '/home/kifelix/alexx_ws/src/alexx_py': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/alexx_py build --build-base /home/kifelix/alexx_ws/build/alexx_py/build install --record /home/kifelix/alexx_ws/build/alexx_py/install.log --single-version-externally-managed install_data
+[0.447s] running egg_info
+[0.447s] writing ../../build/alexx_py/alexx_py.egg-info/PKG-INFO
+[0.447s] writing dependency_links to ../../build/alexx_py/alexx_py.egg-info/dependency_links.txt
+[0.447s] writing entry points to ../../build/alexx_py/alexx_py.egg-info/entry_points.txt
+[0.447s] writing requirements to ../../build/alexx_py/alexx_py.egg-info/requires.txt
+[0.447s] writing top-level names to ../../build/alexx_py/alexx_py.egg-info/top_level.txt
+[0.448s] reading manifest file '../../build/alexx_py/alexx_py.egg-info/SOURCES.txt'
+[0.449s] writing manifest file '../../build/alexx_py/alexx_py.egg-info/SOURCES.txt'
+[0.449s] running build
+[0.449s] running build_py
+[0.449s] copying alexx_py/vision_node.py -> /home/kifelix/alexx_ws/build/alexx_py/build/lib/alexx_py
+[0.449s] copying alexx_py/teste_controle.py -> /home/kifelix/alexx_ws/build/alexx_py/build/lib/alexx_py
+[0.449s] running install
+[0.450s] running install_lib
+[0.450s] copying /home/kifelix/alexx_ws/build/alexx_py/build/lib/alexx_py/vision_node.py -> /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py
+[0.450s] copying /home/kifelix/alexx_ws/build/alexx_py/build/lib/alexx_py/teste_controle.py -> /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py
+[0.450s] byte-compiling /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py/vision_node.py to vision_node.cpython-310.pyc
+[0.451s] byte-compiling /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py/teste_controle.py to teste_controle.cpython-310.pyc
+[0.451s] running install_data
+[0.451s] running install_egg_info
+[0.452s] removing '/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.452s] Copying ../../build/alexx_py/alexx_py.egg-info to /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py-0.0.0-py3.10.egg-info
+[0.453s] running install_scripts
+[0.463s] Installing rota1_teste script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.464s] Installing rota1_teste_odom script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.464s] Installing rota1_teste_odom_2 script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.464s] Installing teste_controle script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.464s] Installing vision_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.464s] writing list of installed files to '/home/kifelix/alexx_ws/build/alexx_py/install.log'
+[0.476s] Invoked command in '/home/kifelix/alexx_ws/src/alexx_py' returned '0': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/alexx_py build --build-base /home/kifelix/alexx_ws/build/alexx_py/build install --record /home/kifelix/alexx_ws/build/alexx_py/install.log --single-version-externally-managed install_data

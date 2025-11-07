@@ -1,0 +1,4 @@
+/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py/rota1_teste_odom.py:46: SyntaxWarning: 'tuple' object is not callable; perhaps you missed a comma?
+  (0.0, -0.3, 0.0, math.pi/2) #
+/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx_py/rota1_teste_odom.py:48: SyntaxWarning: 'tuple' object is not callable; perhaps you missed a comma?
+  (0.0, -0.3, 0.0, math.pi/2) #
