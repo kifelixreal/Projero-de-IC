@@ -1,0 +1,26 @@
+[0.361s] Invoking command in '/home/kifelix/alexx_ws/build/alexx_py': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kifelix/alexx_ws/build/alexx_py/build --no-deps symlink_data --force
+[0.507s] running develop
+[0.587s] running egg_info
+[0.587s] writing alexx_py.egg-info/PKG-INFO
+[0.588s] writing dependency_links to alexx_py.egg-info/dependency_links.txt
+[0.588s] writing entry points to alexx_py.egg-info/entry_points.txt
+[0.588s] writing requirements to alexx_py.egg-info/requires.txt
+[0.588s] writing top-level names to alexx_py.egg-info/top_level.txt
+[0.589s] reading manifest file 'alexx_py.egg-info/SOURCES.txt'
+[0.589s] writing manifest file 'alexx_py.egg-info/SOURCES.txt'
+[0.590s] running build_ext
+[0.590s] Creating /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx-py.egg-link (link to .)
+[0.590s] Installing control_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.590s] Installing rota1_teste script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.590s] Installing rota1_teste_odom script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.591s] Installing rota1_teste_odom_2 script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.591s] Installing vision_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.591s] 
+[0.591s] Installed /home/kifelix/alexx_ws/build/alexx_py
+[0.591s] running symlink_data
+[0.591s] symbolically linking /home/kifelix/alexx_ws/build/alexx_py/resource/alexx_py -> /home/kifelix/alexx_ws/install/alexx_py/share/ament_index/resource_index/packages
+[0.591s] symbolically linking /home/kifelix/alexx_ws/build/alexx_py/package.xml -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py
+[0.591s] symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
+[0.591s] symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch_bridge_ruskita.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
+[0.591s] symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch_bridge.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
+[0.609s] Invoked command in '/home/kifelix/alexx_ws/build/alexx_py' returned '0': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kifelix/alexx_ws/build/alexx_py/build --no-deps symlink_data --force

@@ -1,0 +1,21 @@
+[0.307s] Invoking command in '/home/kifelix/alexx_ws/build/alexx_py': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kifelix/alexx_ws/build/alexx_py/build --no-deps symlink_data
+[0.432s] running develop
+[0.501s] running egg_info
+[0.501s] writing alexx_py.egg-info/PKG-INFO
+[0.501s] writing dependency_links to alexx_py.egg-info/dependency_links.txt
+[0.501s] writing entry points to alexx_py.egg-info/entry_points.txt
+[0.501s] writing requirements to alexx_py.egg-info/requires.txt
+[0.501s] writing top-level names to alexx_py.egg-info/top_level.txt
+[0.502s] reading manifest file 'alexx_py.egg-info/SOURCES.txt'
+[0.502s] writing manifest file 'alexx_py.egg-info/SOURCES.txt'
+[0.503s] running build_ext
+[0.503s] Creating /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx-py.egg-link (link to .)
+[0.503s] Installing control_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.503s] Installing rota1_teste script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.503s] Installing rota1_teste_odom script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.503s] Installing rota1_teste_odom_2 script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.503s] Installing vision_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+[0.503s] 
+[0.503s] Installed /home/kifelix/alexx_ws/build/alexx_py
+[0.503s] running symlink_data
+[0.517s] Invoked command in '/home/kifelix/alexx_ws/build/alexx_py' returned '0': PYTHONPATH=/home/kifelix/alexx_ws/build/alexx_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kifelix/alexx_ws/build/alexx_py/build --no-deps symlink_data

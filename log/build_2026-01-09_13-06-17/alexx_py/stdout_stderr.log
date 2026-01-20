@@ -1,0 +1,24 @@
+running develop
+running egg_info
+writing alexx_py.egg-info/PKG-INFO
+writing dependency_links to alexx_py.egg-info/dependency_links.txt
+writing entry points to alexx_py.egg-info/entry_points.txt
+writing requirements to alexx_py.egg-info/requires.txt
+writing top-level names to alexx_py.egg-info/top_level.txt
+reading manifest file 'alexx_py.egg-info/SOURCES.txt'
+writing manifest file 'alexx_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kifelix/alexx_ws/install/alexx_py/lib/python3.10/site-packages/alexx-py.egg-link (link to .)
+Installing control_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+Installing rota1_teste script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+Installing rota1_teste_odom script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+Installing rota1_teste_odom_2 script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+Installing vision_node script to /home/kifelix/alexx_ws/install/alexx_py/lib/alexx_py
+
+Installed /home/kifelix/alexx_ws/build/alexx_py
+running symlink_data
+symbolically linking /home/kifelix/alexx_ws/build/alexx_py/resource/alexx_py -> /home/kifelix/alexx_ws/install/alexx_py/share/ament_index/resource_index/packages
+symbolically linking /home/kifelix/alexx_ws/build/alexx_py/package.xml -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py
+symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
+symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch_bridge_ruskita.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
+symbolically linking /home/kifelix/alexx_ws/build/alexx_py/launch/alexx_launch_bridge.py -> /home/kifelix/alexx_ws/install/alexx_py/share/alexx_py/launch
