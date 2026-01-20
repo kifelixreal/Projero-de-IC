@@ -28,6 +28,7 @@ setup(
 		'rota1_teste_odom = alexx_py.rota1_teste_odom:main',  # Adicionado aqui: nome_executavel = pacote.modulo:função
 		'rota1_teste_odom_2 = alexx_py.rota1_teste_odom_2:main',  # Adicionado aqui: nome_executavel = pacote.modulo:função
 		'vision_node = alexx_py.vision_node:main',  # Ajuste o caminho se necessário
+		'control_node = alexx_py.control_node:main',  # Controle 
 		
         ],
     },

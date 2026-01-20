@@ -62,11 +62,19 @@ def generate_launch_description():
             output='screen'
         ),  
         
-        # Nó de visão computacional (adicionado para integração completa)
+        # Nó de visão
         Node(
-            package='alexx_py',  # Nome do seu pacote
-            executable='vision_node',  # Executável definido no setup.py
+            package='alexx_py',
+            executable='vision_node',
             name='vision_node',
             output='screen'
-        )                    
+        ),
+
+        # Nó de controle
+        Node(
+            package='alexx_py',
+            executable='control_node',
+            name='control_node',
+            output='screen'
+        )                 
     ])

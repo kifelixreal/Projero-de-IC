@@ -1,4 +1,5 @@
 [console_scripts]
+control_node = alexx_py.control_node:main
 rota1_teste = alexx_py.rota1_teste:main
 rota1_teste_odom = alexx_py.rota1_teste_odom:main
 rota1_teste_odom_2 = alexx_py.rota1_teste_odom_2:main
